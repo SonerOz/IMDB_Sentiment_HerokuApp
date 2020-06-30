@@ -1,1 +1,1 @@
-https://dashboard.heroku.com/apps/imdb-sent-analysis
+https://imdb-sent-analysis.herokuapp.com/
